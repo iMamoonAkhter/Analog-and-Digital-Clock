@@ -1,6 +1,6 @@
 # Analog and Digital Clock
 
-![Demo](demo.png)
+![Demo](DEMO.png)
 
 ## Introduction
 
